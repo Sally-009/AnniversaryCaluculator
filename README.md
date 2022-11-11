@@ -8,6 +8,8 @@ This program includes the calculation of leap years.
 It calculates n days anniversary that the user input.
 
 アピールポイント
+---------------
+
 記念すべき最初のオリジナルプログラム。
 クラス、ヘッダファイル等についてはまだ学習していなかったので、ここでは関数のみを駆使することになる。
 簡単すぎるとつまらないので、うるう年を考慮した記念日の計算を適用することでより実用的に作った。
